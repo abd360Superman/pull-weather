@@ -1,0 +1,5 @@
+----- New Mumbai Weather Report ----- 
+Status: Haze 
+Temperature: 26.99 
+Minimum Temperature: 26.99 
+Maximum Temperature: 27.94
