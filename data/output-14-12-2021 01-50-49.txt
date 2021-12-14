@@ -1,0 +1,5 @@
+----- New Mumbai Weather Report ----- 
+Status: Smoke 
+Temperature: 23.99 
+Minimum Temperature: 23.99 
+Maximum Temperature: 23.99
