@@ -1,9 +1,10 @@
 import json
 import requests
 from datetime import datetime
+import os
 
 def main():
-    APPID = '4d09820275977e4e908f2339f9467c82'
+    APPID = os.environ.get("API_KEY", "some_other_way")
 
     location = 'mumbai'
 
